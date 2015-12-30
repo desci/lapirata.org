@@ -4,8 +4,9 @@ span.bold {
 	text-shadow:0.1em 0.1em 0.1em #222;
 }
 .carousel-caption {
-	color:black;
-	text-shadow:0.1em 0.1em 0.1em #e8e8e8;
+	color:#eee;
+	background-color: hsla(50, 0%, 25%, 0.5);
+	border-radius:1em;
 }
 .active {
 	background-clip:content-box;
