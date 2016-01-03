@@ -12,7 +12,7 @@ span.bold {
 	background-clip:content-box;
 	background-position:bottom;
 	background-repeat:no-repeat;
-	background-size:contain;
+	background-size:cover;
 	background-image:url('../img/lapirata_banner.png');
 }
 
